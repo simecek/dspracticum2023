@@ -9,3 +9,7 @@ While the course is still in development, you can refer to its previous versions
 In the upcoming sessions, we will once again cover prominent topics like *Convolutional Neural Networks*, *Transfer Learning*, *Transformers* and *NLP methods in Genomics*. or the exercises and homework, we will predominantly use Python but it is ok to start with zero knowledge of Python under the condition you can code in other langugage (e.g. R).
 
 Machine learning has witnessed significant developments in the last two years and we will take advantage of those advancements. Specifically, we will explore **diffusion models** (used by Stable Diffusion, DALLE and Midjourney) and **large language models** (behind LlamaChat, Bard, Claude and ChatGPT). Additionally, a key focus of this year's course will be on HuggingFace's **transformers** and **datasets** libraries, which have recently become powerhouses driving various neural network applications.
+
+## Lessons
+
+  1. [Lesson 01](lesson01/) (18.9.): Introduction
