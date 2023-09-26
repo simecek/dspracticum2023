@@ -13,3 +13,4 @@ Machine learning has witnessed significant developments in the last two years an
 ## Lessons
 
   1. [Lesson 01](lesson01/) (18.9.): Introduction
+  1. [Lesson 02](lesson02/) (25.9.): Convolutional neural network (CNN)
