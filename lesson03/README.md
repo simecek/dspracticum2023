@@ -1,6 +1,6 @@
 **Date**: Oct 2, 2023
 
-**Slides**: 
+**Slides**: https://docs.google.com/presentation/d/1GiUXo5xkAg8KLCbzLq6Y9RsX3E38y6en/edit?usp=sharing&ouid=105404276211637112655&rtpof=true&sd=true
 
 * Recap from last lesson: CNN
 * Transfer learning
