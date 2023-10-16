@@ -14,3 +14,6 @@ Machine learning has witnessed significant developments in the last two years an
 
   1. [Lesson 01](lesson01/) (18.9.): Introduction
   1. [Lesson 02](lesson02/) (25.9.): Convolutional neural network (CNN)
+  1. [Lesson 03](lesson03/) (2.10.): Finetuning
+  1. [Lesson 04](lesson04/) (9.10.): Hugging Face Spaces
+  1. [Lesson 05](lesson05/) (16.10.): Tokenization, Embeddings
