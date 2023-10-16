@@ -18,5 +18,6 @@
   1. You can try searching for the most similar image / text, visualization with PCA, clustering or superfast classification based on embeddings. Or even something we did not mentioned.
   1. Deploy your model as app in HF Spaces (if you did not succeed, send us at least link to GitHub repo)
 
+See Discord for the link to submit the homework.
 
 
