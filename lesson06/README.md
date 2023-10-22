@@ -11,7 +11,7 @@
 
 * Exercise 1: [Text classification: News articles](ds_practicum_ex1_text_classification.ipynb)
 * Exercise 2: [Text classification: Genomic benchmarks](ds_practicum_exercise2_genomic_benchmarks.ipynb)
-* Exercise 3: [Text generation](ds_practicum_ex3_text_generation.ipynb)
+* Exercise 3: [Text generation](ds_practicum_exercise3_text_generation_ipynb.ipynb)
 
 
 **Assignment 06**:
