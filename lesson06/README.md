@@ -1,6 +1,6 @@
 **Date**: Oct 9, 2023
 
-**Slides**: [lesson06.pdf](lesson6.pdf)
+**Slides**: [lesson06.pdf](lesson06.pdf)
 
 * Transformer architecture - training details
 * Text classification
