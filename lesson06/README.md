@@ -19,4 +19,6 @@
 1. Try to increase the performance of the model from Exercise 1 and report your best results (e.g. you can apply some hyperparameter optimization).
 - if you are not successful report what approaches you have tried and all of your results
 
+- please send the link to your GitHub through [this form](https://forms.gle/YRdS3ERzeWx2TScM8)
+
 
