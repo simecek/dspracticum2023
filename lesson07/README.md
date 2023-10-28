@@ -2,7 +2,7 @@
 
 **Slides**: [lesson07.pdf](lesson07.pdf)
 
-**eXplainable Artificial Intelligence (XAI) **
+**eXplainable Artificial Intelligence (XAI)**
 
 * Terminology
 * Feature importance
