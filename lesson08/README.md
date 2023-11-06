@@ -20,4 +20,5 @@
 
 1. Choose some dataset from Kaggle and try to explore it - get as much insights into the dataset as possible (write a report about it, visualize some statistical properties of its features, answer interesting questions, …)
 
+Please send the link to your GitHub through: https://forms.gle/weiXmtYqJ3hfsuJB6
 
