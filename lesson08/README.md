@@ -1,4 +1,4 @@
-**Date**: Oct 30, 2023
+**Date**: Nov 6, 2023
 
 **Slides**: [lesson08.pdf](lesson08.pdf)
 

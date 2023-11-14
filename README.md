@@ -17,3 +17,7 @@ Machine learning has witnessed significant developments in the last two years an
   1. [Lesson 03](lesson03/) (2.10.): Finetuning
   1. [Lesson 04](lesson04/) (9.10.): Hugging Face Spaces
   1. [Lesson 05](lesson05/) (16.10.): Tokenization, Embeddings
+  1. [Lesson 06](lesson06/) (23.10.): Transformers, text classification
+  1. [Lesson 07](lesson07/) (30.10.): Interpretability
+  1. [Lesson 08](lesson08/) ( 6.11.): Exercises: table of astronauts
+  1. [Lesson 09](lesson09/) (13.11.): Large language models
