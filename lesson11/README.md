@@ -10,5 +10,5 @@ Insights to Stable Diffusion and image generation.
 
 **Assignment 11 (! this time due to Saturday 3. 12.)**:
 
-Implement negative prompt to the dissected pipeline at this notebook and send you solutions through: https://forms.gle/6HWEBvothJKjwXwz8
+Implement negative prompt to the dissected pipeline at [this](stable_diffusion_exercise.ipynb) notebook and send you solutions through: https://forms.gle/6HWEBvothJKjwXwz8
 
